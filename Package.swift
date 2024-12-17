@@ -12,8 +12,6 @@ let package = Package(
     ],
     dependencies: [
         // Define external dependencies here using GitHub URLs or package names.
-        // Example: A dependency on 'feat_base' hosted on GitHub.
-        .package(url: "https://github.com/netcanis/feat_base.git", from: "1.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
